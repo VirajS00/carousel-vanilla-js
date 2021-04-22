@@ -90,12 +90,12 @@ section {
 	width: 10px;
 	background-color: #fff;
 	border-radius: 50%;
-	box-shadow: 0 0 0 0.18rem, 0 0 0 0.22rem #fff;
+	box-shadow: 0 0 0 0.22rem #fff;
 	transition: background-color 250ms ease;
 }
 
 .corosel .controls .image-index .index-circle.active-circle {
-	box-shadow: 0 0 0 0.18rem, 0 0 0 0.22rem #317fb0;
+	box-shadow: 0 0 0 0.22rem #fff;
 	background-color: #317fb0;
 }
 
