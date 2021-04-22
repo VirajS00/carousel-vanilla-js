@@ -41,4 +41,4 @@ or you can include it at the bottom of the body without the `defer` attribute.
 
 That is it, now you can use the corosel.
 
-If you want to make a change, feel free to make a pull request ↪️.
+If you want to make a change, feel free to make a pull request ↪️ or fork ⑂.
