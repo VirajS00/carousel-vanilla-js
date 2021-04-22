@@ -5,7 +5,7 @@ This is a small project I did, where I made a corosel in vanilla JavaScript.
 ## How to use
 
 <!-- prettier-ignore -->
-include the CSS and javaScript file in the head:
+#### include the CSS and javaScript file in the head
 
 ```html
 <head>
@@ -19,7 +19,7 @@ _Feel free to make changes to the code and include the non-minified files._
 
 or you can include it at the bottom of the body without the `defer` attribute.
 
-The markup
+#### The markup
 
 <!-- prettier-ignore -->
 ```html
